@@ -12,7 +12,8 @@ Email: ahsu016@csu.fullerton.edu
 Mark Raden
 Email: mraden@csu.fullerton.edu
 
-(Add name and email address)
+Kiet Nguyen
+Email: kylekiet@csu.fullerton.edu
 
 ## Programming Language(s)
 
@@ -23,13 +24,13 @@ Python
 First you have to run the server side code. To do this in one terminal you can run:
 
 ```bash
-write server side start up here
+python sendfileserv.py 21
 ```
 
 Afterwards you then can run the client side code. To do this you can do this in another terminal with:
 
 ```bash
-write client side start up here
+python sendfilecli.py 21
 ```
 
 Once both are started up and connected you should be prompted with
@@ -55,3 +56,9 @@ Entering put \<file> will have the client send the server the requested file and
 Entering 'quit' will exit you from the program disconnect you from the socket.
 
 ## Notes
+
+Only certain combinations work at this moment. Below are the working combinations:
+
+get file.txt-> put file.txt
+put file.txt
+ls -> put file.txt
