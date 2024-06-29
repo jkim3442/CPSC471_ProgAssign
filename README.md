@@ -9,10 +9,10 @@ Email: anthonyortiz7575@csu.fullerton.edu
 Audrey Hsu <br>
 Email: ahsu016@csu.fullerton.edu
 
-Mark Raden
+Mark Raden <br>
 Email: mraden@csu.fullerton.edu
 
-Kiet Nguyen
+Kiet Nguyen <br>
 Email: kylekiet@csu.fullerton.edu
 
 ## Programming Language(s)
@@ -58,7 +58,7 @@ Entering 'quit' will exit you from the program disconnect you from the socket.
 ## Notes
 
 Only certain combinations work at this moment. Below are the working combinations:
-
-get file.txt-> put file.txt
-put file.txt
-ls -> put file.txt
+<br>
+get file.txt-> put file.txt <br>
+put file.txt <br>
+ls -> put file.txt <br>
